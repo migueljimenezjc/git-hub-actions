@@ -1,3 +1,10 @@
+# 1.0.0 (2024-06-12)
+
+
+### Features
+
+* Actualizacion de build ([4f9151a](https://github.com/migueljimenezjc/git-hub-actions/commit/4f9151a7226bd07a593803bb4f06e1d59870f857))
+
 # [1.1.0](https://github.com/lemiliomoreno/ghactions-demo/compare/v1.0.1...v1.1.0) (2024-06-08)
 
 
