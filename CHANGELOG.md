@@ -1,3 +1,10 @@
+# [1.1.0](https://github.com/migueljimenezjc/git-hub-actions/compare/v1.0.0...v1.1.0) (2024-06-12)
+
+
+### Features
+
+* Actualizacion de build ([58d362f](https://github.com/migueljimenezjc/git-hub-actions/commit/58d362f8e8eaf36e2fb39758fcfe8304ba09112f))
+
 # 1.0.0 (2024-06-12)
 
 
