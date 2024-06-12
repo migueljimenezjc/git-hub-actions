@@ -2,9 +2,9 @@
 name: Build
 
 on:
-  push:
-    branches:
-      - test_aws
+  release:
+    types:
+      - published
 
 jobs:
   BuildDockerImage:
